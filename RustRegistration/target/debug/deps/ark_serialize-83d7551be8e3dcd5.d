@@ -1,0 +1,11 @@
+C:\Users\cigde\source\repos\WBA\RustRegistration\target\debug\deps\libark_serialize-83d7551be8e3dcd5.rmeta: C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\lib.rs C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\error.rs C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\flags.rs C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\impls.rs C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\../README.md
+
+C:\Users\cigde\source\repos\WBA\RustRegistration\target\debug\deps\libark_serialize-83d7551be8e3dcd5.rlib: C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\lib.rs C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\error.rs C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\flags.rs C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\impls.rs C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\../README.md
+
+C:\Users\cigde\source\repos\WBA\RustRegistration\target\debug\deps\ark_serialize-83d7551be8e3dcd5.d: C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\lib.rs C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\error.rs C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\flags.rs C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\impls.rs C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\../README.md
+
+C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\lib.rs:
+C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\error.rs:
+C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\flags.rs:
+C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\impls.rs:
+C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\../README.md:

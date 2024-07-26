@@ -1,0 +1,9 @@
+C:\Users\cigde\source\repos\WBA\RustRegistration\target\debug\deps\num_enum_derive-d81f9a8d8f24e991.dll: C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\lib.rs C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\enum_attributes.rs C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\parsing.rs C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\utils.rs C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\variant_attributes.rs
+
+C:\Users\cigde\source\repos\WBA\RustRegistration\target\debug\deps\num_enum_derive-d81f9a8d8f24e991.d: C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\lib.rs C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\enum_attributes.rs C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\parsing.rs C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\utils.rs C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\variant_attributes.rs
+
+C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\lib.rs:
+C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\enum_attributes.rs:
+C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\parsing.rs:
+C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\utils.rs:
+C:\Users\cigde\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\variant_attributes.rs:
