@@ -3,6 +3,8 @@ mod airdrop;
 mod transfer;
 mod transfer_all;
 mod wallet_format_converter;
+mod complete_registration;
+mod programs;
 
 #[cfg(test)]
 mod tests {
@@ -25,6 +27,11 @@ mod tests {
     #[test]
     fn test_transfer_all() {
         transfer_all::transfer_all_sol();
+    }
+
+    #[test]
+    fn test_complete() {
+        complete_registration::complete_registration();
     }
 
     #[test]
