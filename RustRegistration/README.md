@@ -1,0 +1,2 @@
+Rust Registration transaction:  
+https://explorer.solana.com/tx/5Jh2xbt1cuHPQYvRwSn1Sg9SP19ZXZsNJRwkpAeXquUWnrAnTZCr2Tb5PTKAzW8NUi9F5XZfkZEwRygTjbi3T27w?cluster=devnet
