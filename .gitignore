@@ -16,8 +16,8 @@
 .DS_Store
 
 # Node.js dependencies, if applicable
-/node_modules/
-**/node_modules
+**/node_modules/
+
 
 # Logs
 *.log
