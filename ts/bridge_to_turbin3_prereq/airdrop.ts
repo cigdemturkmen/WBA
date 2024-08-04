@@ -1,5 +1,5 @@
 import { Connection, Keypair, LAMPORTS_PER_SOL } from "@solana/web3.js"
-import wallet from "./wba-dev-wallet.json"
+import wallet from "../wallets/wba-dev-wallet.json"
 
 const keypair = Keypair.fromSecretKey(new Uint8Array(wallet));
 

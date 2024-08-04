@@ -1,13 +1,13 @@
 import { Transaction, SystemProgram, Connection, Keypair, LAMPORTS_PER_SOL, sendAndConfirmTransaction, PublicKey } from "@solana/web3.js"
 
-import wallet from "./wba-dev-wallet.json"
+import wallet from "../wallets/wba-dev-wallet.json"
 
 // Import dev wallet which has SOL in it
 const from = Keypair.fromSecretKey(new Uint8Array(wallet));
 
 // Define Second Account Public Key
 /* Make sure you are in the right directory in the terminal before running "yarn keygen" to create a second wallet to receive a tx */
-const to = new PublicKey("4aA18qjgPisC99WzVExCxaBqE2o9uvPc34N78CaK3qW3");
+const to = new PublicKey("4aA18qjgPisC99WzVExCxaBqE2o9uvPc34N78CaK3qW3"); // this wallet is created randomly in yarn_keygen.ts.
 
 
 //Create a Solana devnet connection
